@@ -1,0 +1,2 @@
+This is intro to git
+I will create java project here 
